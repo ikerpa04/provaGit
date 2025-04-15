@@ -6,4 +6,4 @@
 
 FRAN ERES UN FILL DE LA GRAN MARE QUE TA PARIT
 
--Repositorio remoto
+-Resolución de conflictos
