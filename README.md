@@ -7,3 +7,5 @@
 FRAN ERES UN FILL DE LA GRAN MARE QUE TA PARIT
 
 -Resolución de conflictos
+
+-Esta gente no se calla
